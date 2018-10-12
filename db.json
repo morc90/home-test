@@ -4,7 +4,7 @@
       "id": 1,
       "Title": "Back to the Future",
       "Year": "19850205 ",
-      "imdbID": "tt0088763",
+      "imdb": "tt0088763",
       "Type": "movie",
       "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "Title": "Back to the Future Part II",
       "Year": "19890408 ",
-      "imdbID": "tt0096874",
+      "imdb": "tt0096874",
       "Type": "movie",
       "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTMxMGM5MjItNDJhNy00MWI2LWJlZWMtOWFhMjI5ZTQwMWM3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
     }
